@@ -100,7 +100,7 @@ The machine learning models are evaluated using metrics such as:
 ```text
 spam-email-detection/
 │
-├── spam_email_detection.ipynb
+├── spam_email.ipynb
 ├── README.md
 ├── requirements.txt
 └── screenshots/
